@@ -192,10 +192,3 @@ See [OPTIONAL_FEATURES.md](OPTIONAL_FEATURES.md) for what's planned:
 - Multi-client support
 - Frame recording
 
-## License
-
-Educational/demo purposes.
-
----
-
-Questions? Open an issue.
