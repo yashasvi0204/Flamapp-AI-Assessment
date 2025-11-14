@@ -1,8 +1,8 @@
-Flamapp-AI-Assessment
-Flamapp R&amp;D intern assignment — Camera/NDK/OpenCV/OpenGL
+# Real-Time Edge Detection Viewer
+
 This Android app grabs camera frames, runs edge detection on them using OpenCV in C++, displays the results with OpenGL, and streams everything to a web browser over HTTP.
 
-What's Inside
+## What's Inside
 
 **Android App:**
 - Camera capture with CameraX
@@ -192,3 +192,10 @@ See [OPTIONAL_FEATURES.md](OPTIONAL_FEATURES.md) for what's planned:
 - Multi-client support
 - Frame recording
 
+## License
+
+Educational/demo purposes.
+
+---
+
+Questions? Open an issue.
